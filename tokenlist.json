@@ -5,7 +5,8 @@
     "version": {
         "major": 0,
         "minor": 2,
-        "patch": 0,
+        "patch": 0
+    },
     "tokens": [
         {
             "name": "Wrapped ETH",
